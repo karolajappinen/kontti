@@ -13,7 +13,9 @@ body {
  h2 {
   text-align: left;
 }
-  
+  img {width: 100%;
+    max-width: 800px;
+}
   
   
 
