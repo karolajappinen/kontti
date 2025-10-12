@@ -5,20 +5,20 @@ body {
   font-weight: 400;
   font-style: normal;
   margin: 20%;
-  padding: 30;
+  padding: 20;
   text-align: left;
   background-color:F0ECA8;
   div {
     border 1px;
     padding:20px;
-    margin:30px;
+    margin:20px;
       }
 
  h2 {
-  text-align: left;
+  text-align: center;
 }
-  img {width: 60%;
-    max-width: 800px;
+  img {width: 40%;
+    max-width: 1200px;
 }
   header h1 {
     .content {
