@@ -1,3 +1,9 @@
+div {
+border: 1px;
+border-color:nothing
+border-style: solid;
+}
+
 p{
   color:#23160C; 
 }
