@@ -5,8 +5,7 @@ border-style: solid;
 }
 
 .header {
-  background-color:F0ECA8;
-
+ h1;
 image:"omakuva.jpg";
 image-position: center;
 image-size:width: 40%;
@@ -44,5 +43,5 @@ p{
       width:90%;
       margina:auto;
   }
-    
+    background-color:F0ECA8; 
 
