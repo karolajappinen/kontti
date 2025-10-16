@@ -5,10 +5,10 @@ border-style: solid;
 }
 
 .header h1 {
-    font-size:18px
+    font-size:24px
     text-algin: center;
     color:#23160C;
-    150px 10px 150px 10px;
+    padding 20px;
 
 image:"omakuva.jpg";
 image-position: center;
