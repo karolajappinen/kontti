@@ -1,11 +1,15 @@
     div {
 border: 1px;
-border-color: #DDFA9E;
+border-color: black;
 border-style: solid;
 }
 
-.header {
- h1;
+.header h1 {
+    font-size:18px
+    text-algin: center;
+    color:#23160C;
+    150px 10px 150px 10px;
+
 image:"omakuva.jpg";
 image-position: center;
 image-size:width: 40%;
