@@ -1,6 +1,7 @@
-div {
+
+    div {
 border: 1px;
-border-color:nothing
+border-color:nothing;
 border-style: solid;
 }
 
@@ -9,7 +10,11 @@ border-style: solid;
 background-color:F0ECA8;
   }
 .header {
-  image:"omakuva.jpg"
+image:"omakuva.jpg";
+image-position: center;
+}
+
+
 
 
 
